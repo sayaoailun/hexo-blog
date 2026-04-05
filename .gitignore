@@ -48,3 +48,6 @@ public/
 
 # Local config files
 _config.local.yml
+
+# Database files
+db.json
